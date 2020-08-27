@@ -1,0 +1,9 @@
+{
+    "name": "Goals and principles",
+    "namespace": "Botble\\Goalsandprinciples\\",
+    "provider": "Botble\\Goalsandprinciples\\Providers\\GoalsandprinciplesServiceProvider",
+    "author": "Team Dev HTC",
+    "url": "",
+    "version": "1.0",
+    "description": "The description for module goalsandprinciples"
+}

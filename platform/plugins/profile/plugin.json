@@ -1,0 +1,9 @@
+{
+    "name": "Profile",
+    "namespace": "Botble\\Profile\\",
+    "provider": "Botble\\Profile\\Providers\\ProfileServiceProvider",
+    "author": "Sang Nguyen",
+    "url": "https://sangnguyen.info",
+    "version": "1.0",
+    "description": "The description for module profile"
+}

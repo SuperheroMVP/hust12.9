@@ -1,0 +1,9 @@
+{
+    "name": "Development history",
+    "namespace": "Botble\\Developmenthistory\\",
+    "provider": "Botble\\Developmenthistory\\Providers\\DevelopmenthistoryServiceProvider",
+    "author": "Team Dev HTC",
+    "url": "",
+    "version": "1.0",
+    "description": "The description for module development history"
+}

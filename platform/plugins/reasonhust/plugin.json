@@ -1,0 +1,9 @@
+{
+    "name": "Reason hust",
+    "namespace": "Botble\\Reasonhust\\",
+    "provider": "Botble\\Reasonhust\\Providers\\ReasonhustServiceProvider",
+    "author": "Team Dev HTC",
+    "url": "",
+    "version": "1.0",
+    "description": "The description for module reason hust"
+}

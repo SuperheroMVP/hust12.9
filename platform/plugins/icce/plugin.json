@@ -1,0 +1,9 @@
+{
+    "name": "ICCI",
+    "namespace": "Botble\\Icce\\",
+    "provider": "Botble\\Icce\\Providers\\IcceServiceProvider",
+    "author": "Team Dev HTC",
+    "url": "https://sangnguyen.info",
+    "version": "1.0",
+    "description": "The description for module icce"
+}

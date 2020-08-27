@@ -1,0 +1,9 @@
+{
+    "name": "About hust",
+    "namespace": "Botble\\Abouthust\\",
+    "provider": "Botble\\Abouthust\\Providers\\AbouthustServiceProvider",
+    "author": "Team Dev HTC",
+    "url": "",
+    "version": "1.0",
+    "description": "The description for module about hust"
+}
